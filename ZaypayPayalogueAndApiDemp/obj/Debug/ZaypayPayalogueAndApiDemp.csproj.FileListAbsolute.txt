@@ -3,7 +3,6 @@ C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ZaypayPayalogueAndApiDemp\ZaypayPayalogueAndApiDemp\bin\EntityFramework.dll
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ZaypayPayalogueAndApiDemp\ZaypayPayalogueAndApiDemp\bin\Microsoft.CSharp.dll
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ZaypayPayalogueAndApiDemp\ZaypayPayalogueAndApiDemp\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ZaypayPayalogueAndApiDemp\ZaypayPayalogueAndApiDemp\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ZaypayPayalogueAndApiDemp\ZaypayPayalogueAndApiDemp\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ZaypayPayalogueAndApiDemp\ZaypayPayalogueAndApiDemp\bin\System.ComponentModel.DataAnnotations.dll
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ZaypayPayalogueAndApiDemp\ZaypayPayalogueAndApiDemp\bin\System.Configuration.dll
@@ -37,7 +36,6 @@ C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ZaypayPayalogueAndApiDemp\ZaypayPayalogueAndApiDemp\bin\NSubstitute.dll
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ZaypayPayalogueAndApiDemp\ZaypayPayalogueAndApiDemp\bin\EntityFramework.xml
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ZaypayPayalogueAndApiDemp\ZaypayPayalogueAndApiDemp\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ZaypayPayalogueAndApiDemp\ZaypayPayalogueAndApiDemp\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ZaypayPayalogueAndApiDemp\ZaypayPayalogueAndApiDemp\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ZaypayPayalogueAndApiDemp\ZaypayPayalogueAndApiDemp\bin\System.Web.Mvc.xml
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ZaypayPayalogueAndApiDemp\ZaypayPayalogueAndApiDemp\bin\System.Web.WebPages.xml
